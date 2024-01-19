@@ -22,4 +22,5 @@ When the program is run, the user will be prompted to enter one of eight actions
 Actions 1, 3, and 4 also require the user to input the name of the item they wish to act on. 
 
 The program can be run on any Python IDE.
+
 Contributors: Yingyi M, Joyce C
