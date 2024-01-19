@@ -1,7 +1,7 @@
 # Simple-Grocery-List
 A simple Python program that allows the user to add. remove, check off, and interact with a grocery list.
 
-When the program is run, the user will be prompted to enter one of eight actions by inputting an integer between 1-8. 
+When the program is run, the user will be prompted to enter one of eight actions by inputting an integer between 1-8:
     1. Add Grocery Item
     2. View Current Grocery List
     3. Mark Grocery Item as Bought
